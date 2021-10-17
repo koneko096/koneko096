@@ -30,6 +30,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Wet Code Great Again](https://koneko096.github.io/posts/wet-code/)
+- [Installing CUDA 10.2 in Ubuntu 20.04](https://koneko096.github.io/posts/cuda-10/)
+- [Should We Write Tests?](https://koneko096.github.io/posts/test/)
+- [Testing Entire Jungle](https://koneko096.github.io/posts/jungle-test/)
+- [Work Safely with C++ Vector](https://koneko096.github.io/posts/safe-vector/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://koneko096.github.io)

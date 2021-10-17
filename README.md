@@ -40,6 +40,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#4319](https://github.com/tektoncd/pipeline/pull/4319) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+2. 🗣 Commented on [#4272](https://github.com/tektoncd/pipeline/issues/4272) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+3. 🗣 Commented on [#28638](https://github.com/pingcap/tidb/issues/28638) in [pingcap/tidb](https://github.com/pingcap/tidb)
+4. 🗣 Commented on [#5749](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/5749) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+5. 🗣 Commented on [#528](https://github.com/jorgecarleitao/arrow2/issues/528) in [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2)
 <!--END_SECTION:activity-->
 
 </details>

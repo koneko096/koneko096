@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11324](https://github.com/hashicorp/consul/issues/11324) in [hashicorp/consul](https://github.com/hashicorp/consul)
-2. 💪 Opened PR [#4319](https://github.com/tektoncd/pipeline/pull/4319) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-3. 🗣 Commented on [#4272](https://github.com/tektoncd/pipeline/issues/4272) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
-4. 🗣 Commented on [#28638](https://github.com/pingcap/tidb/issues/28638) in [pingcap/tidb](https://github.com/pingcap/tidb)
-5. 🗣 Commented on [#5749](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/5749) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+1. 🗣 Commented on [#6883](https://github.com/zaproxy/zaproxy/issues/6883) in [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)
+2. 🗣 Commented on [#11324](https://github.com/hashicorp/consul/issues/11324) in [hashicorp/consul](https://github.com/hashicorp/consul)
+3. 💪 Opened PR [#4319](https://github.com/tektoncd/pipeline/pull/4319) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+4. 🗣 Commented on [#4272](https://github.com/tektoncd/pipeline/issues/4272) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
+5. 🗣 Commented on [#28638](https://github.com/pingcap/tidb/issues/28638) in [pingcap/tidb](https://github.com/pingcap/tidb)
 <!--END_SECTION:activity-->
 
 </details>

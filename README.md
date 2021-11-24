@@ -1,5 +1,5 @@
 ### Hi there, I'm Afrizal 👋
-
+<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/ravenclaw_badge.gif" width="200px">
 
 ## I'm a Developer and Tech Enthusiast!!
 

@@ -45,10 +45,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/koneko096/koneko096.github.io/pull/20) in [koneko096/koneko096.github.io](https://github.com/koneko096/koneko096.github.io)
-2. 💪 Opened PR [#20](https://github.com/koneko096/koneko096.github.io/pull/20) in [koneko096/koneko096.github.io](https://github.com/koneko096/koneko096.github.io)
-3. 🗣 Commented on [#3284](https://github.com/zaproxy/zap-extensions/issues/3284) in [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions)
-4. 🗣 Commented on [#6883](https://github.com/zaproxy/zaproxy/issues/6883) in [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)
+1. 🗣 Commented on [#3284](https://github.com/zaproxy/zap-extensions/issues/3284) in [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions)
+2. 🎉 Merged PR [#20](https://github.com/koneko096/koneko096.github.io/pull/20) in [koneko096/koneko096.github.io](https://github.com/koneko096/koneko096.github.io)
+3. 💪 Opened PR [#20](https://github.com/koneko096/koneko096.github.io/pull/20) in [koneko096/koneko096.github.io](https://github.com/koneko096/koneko096.github.io)
+4. 🗣 Commented on [#3284](https://github.com/zaproxy/zap-extensions/issues/3284) in [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions)
 5. 🗣 Commented on [#4272](https://github.com/tektoncd/pipeline/issues/4272) in [tektoncd/pipeline](https://github.com/tektoncd/pipeline)
 <!--END_SECTION:activity-->
 

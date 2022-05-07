@@ -3,10 +3,16 @@
 
 ## I'm a Developer and Tech Enthusiast!!
 
-- 🔭 Keen about science and philosophy
-- 🌱 Starting to dive to open source 🤣
-- 🥅 Day to day web and data engineer at office
-- ⚡ Fun fact: My Cities Skylines's population had reached 400k+ and keep growing
+- 🔭 Total interests in science and philosophy
+- 🥅 Backend and data engineer at noon
+- ⌨️ Competitive programmer and open source evangelist at night
+
+<br />
+
+## Badges
+[![Badge](https://cp-logo.vercel.app/codeforces/afrizal?logo=true)]
+[![Badge](https://cp-logo.vercel.app/atcoder/icalFikr?logo=true)]
+[![Badge](https://cp-logo.vercel.app/topcoder/dago96?logo=true)]
 
 <br />
 

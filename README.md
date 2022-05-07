@@ -10,9 +10,9 @@
 <br />
 
 ## Badges
-[![Badge](https://cp-logo.vercel.app/codeforces/afrizal?logo=true)]
-[![Badge](https://cp-logo.vercel.app/atcoder/icalFikr?logo=true)]
-[![Badge](https://cp-logo.vercel.app/topcoder/dago96?logo=true)]
+![Badge](https://cp-logo.vercel.app/codeforces/afrizal?logo=true)
+![Badge](https://cp-logo.vercel.app/atcoder/icalFikr?logo=true)
+![Badge](https://cp-logo.vercel.app/topcoder/dago96?logo=true)
 
 <br />
 
